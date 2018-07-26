@@ -1,0 +1,10 @@
+---
+cf_url: https://api.cloud.pcftest.com
+cf_username: sreddy1
+cf_password: wav9Elbc$xG3
+cf_org: Project-Sapphire
+cf_space: RADIT
+service: newrelic
+apiEndpoint: https://api.cloud.pcftest.com
+cf_exec=: /usr/bin/cf
+

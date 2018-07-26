@@ -1,0 +1,8 @@
+---
+- name: Executing Ansible library
+  python:
+     url: https://api.cloud.pcftest.com
+     username: sreddy1
+     password: wav9Elbc$xG3
+     org: Project-Sapphire
+     space: RADIT
